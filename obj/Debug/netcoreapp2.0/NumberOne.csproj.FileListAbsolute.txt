@@ -1,0 +1,10 @@
+C:\Users\10012125\desktop\NumberOne\bin\Debug\netcoreapp2.0\NumberOne.deps.json
+C:\Users\10012125\desktop\NumberOne\bin\Debug\netcoreapp2.0\NumberOne.runtimeconfig.json
+C:\Users\10012125\desktop\NumberOne\bin\Debug\netcoreapp2.0\NumberOne.runtimeconfig.dev.json
+C:\Users\10012125\desktop\NumberOne\bin\Debug\netcoreapp2.0\NumberOne.dll
+C:\Users\10012125\desktop\NumberOne\bin\Debug\netcoreapp2.0\NumberOne.pdb
+C:\Users\10012125\desktop\NumberOne\obj\Debug\netcoreapp2.0\NumberOne.csproj.CoreCompileInputs.cache
+C:\Users\10012125\desktop\NumberOne\obj\Debug\netcoreapp2.0\NumberOne.AssemblyInfoInputs.cache
+C:\Users\10012125\desktop\NumberOne\obj\Debug\netcoreapp2.0\NumberOne.AssemblyInfo.cs
+C:\Users\10012125\desktop\NumberOne\obj\Debug\netcoreapp2.0\NumberOne.dll
+C:\Users\10012125\desktop\NumberOne\obj\Debug\netcoreapp2.0\NumberOne.pdb
